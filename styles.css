@@ -1,0 +1,28 @@
+.titulo{
+	text-align: center;
+	
+}
+	
+body{
+	background-image: url(img.jpg);
+	background-size: 130%;
+}
+.divChar{
+	width: 23%;
+	display: inline-grid;
+}
+
+.Nome{
+	margin-top: 15px;
+	border-radius: 5px;
+	background-color: #00CED1;
+	border-style: double;
+	border-color: #7CFC00;
+	border-width: 1px;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.marginTopo{
+	margin-top: 1%;
+}
